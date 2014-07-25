@@ -1,1 +1,11 @@
 markdown: kramdown
+pygments: true
+github: [Repository metadata]
+
+
+safe: true
+lsi: false
+source: your top-level directory
+# Keep in mind that if you change the source setting, your pages may not build correctly. 
+# GitHub Pages only considers source files in the top-level directory of a repository.
+
