@@ -9,8 +9,8 @@ source: your top-level directory
 # Keep in mind that if you change the source setting, your pages may not build correctly. 
 # GitHub Pages only considers source files in the top-level directory of a repository.
 
-permalink: /:categories/:year/:month/:day/:title.html
-
+permalink: /:year/:month/:day/:title.html
+# /:categories
 highlighter: pygments
 production_url: http://dfx.io
 description_name: This world
