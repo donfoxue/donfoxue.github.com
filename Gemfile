@@ -1,1 +1,1 @@
-gem 'github-pages'
+gem 'github-pages (>= 0) ruby' 
