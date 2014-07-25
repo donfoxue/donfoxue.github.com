@@ -1,1 +1,2 @@
-gem 'github-pages (>= 0) ruby' 
+gem 'github-pages' 
+'https://rubygems.org'
