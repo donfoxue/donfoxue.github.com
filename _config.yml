@@ -12,7 +12,7 @@ source: your top-level directory
 permalink: /:year/:month/:day/:title.html
 # /:categories
 highlighter: pygments
-production_url: http://dfx.io
+# production_url: http://dfx.io
 description_name: This world
 description_blog: The blog
 # image_url: /public/img/posts
