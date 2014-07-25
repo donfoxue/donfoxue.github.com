@@ -10,4 +10,19 @@ source: your top-level directory
 # GitHub Pages only considers source files in the top-level directory of a repository.
 
 permalink: /:categories/:year/:month/:day/:title.html
-include: [".well-known"]
+
+highlighter: pygments
+production_url: http://dfx.io
+description_name: This world
+description_blog: The blog
+# image_url: /public/img/posts
+future: false
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "post"
+    values:
+      layout: "post"
+
